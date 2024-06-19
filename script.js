@@ -21,24 +21,24 @@ const perguntas = [
         ]
     },
     {
-      texto: "com a saída do Cassio do Corinthians, o timão busca colocar um goleiro do elenco corintiano,qual seria um bom nome? "
+      texto: "com a saída do Endrick do Palmeias, o palmeiras busca colocar um atacante do elenco palmeirense ,qual seria um bom nome? "
     ",
           afirmação: [
-            "Carlos Miguel",
-            "Felipe Longo"
+            "Flaco Lopes",
+            "Rony"
         ]
     },
     {
-          texto: "Com o fim do Paulistão, o corinthians busca melhorar seu elenco, e com isso busca um novo treinador, Qual seria o melhor nome?",
+          texto: "Com a saida de jogaores, o palmeiras busca melhorar seu elenco, e com isso busca um novo jogador, Qual seria o melhor nome?",
           afirmação: [
-            "Antonio Oliveira",
-            "Mano Menezes"
+            "Mauricio",
+            "Felipe Anderson"
         ]
     },
     {
-          texto: "O corinthians buca um titulo que ainda é inedito na sua enorme pratileira de troféus, e com isso e ele ganhar esse titulo, ele vai se consagrar campeão de tudo, Qual titulo que falta?",
+          texto: "O palmeiras tem varios titulo , qual sao os principais ?",
           afirmação: [
-            "Sudamericana",
+            "Copa do brasil",
             "Libertadores"
         ]
     }
